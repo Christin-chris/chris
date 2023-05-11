@@ -91,3 +91,39 @@ void loop()
 ## DANCING LED
 
 ![_photo](https://github.com/Christin-chris/chris/blob/main/Screenshot%20from%202023-05-11%2012-53-48.png)
+
+>dancing led progaram
+
+// C++ code
+//
+void setup()
+
+{
+
+  pinMode(13, OUTPUT);
+  
+  pinMode(8,OUTPUT);
+  
+}
+
+void loop()
+
+{
+
+  digitalWrite(13, HIGH);
+  
+  delay(1000);//wait for 1000millisecond(s)
+  
+  digitalWrite(13, LOW);
+  
+   // Wait for 1000 millisecond(s)
+   
+  digitalWrite(8, HIGH);
+  
+  delay(1000);
+  
+  digitalWrite(8, LOW);
+  
+  delay(1000);
+  
+}
