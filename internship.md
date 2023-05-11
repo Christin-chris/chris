@@ -18,5 +18,17 @@
 
 >tinkercad
 
+1 open tinkecard software
+
+2 open new simulation folder
+
+3 create an a led simulation circuit with switch and without switch
+
+>project-1
+
 ![ photo](https://github.com/Christin-chris/chris/blob/main/Screenshot%20from%202023-05-09%2012-24-05.png)
+
+>project-2
+
 ![_poto](https://github.com/Christin-chris/chris/commit/e669b8ee21bd057bf3e115721e700eb6d135118a)
+
