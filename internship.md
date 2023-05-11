@@ -36,4 +36,4 @@
  
  >PROJECT-3
   
-  ![_photo](https://www.tinkercad.com/things/iL02n05G8ow-and-gate/editel)
+  ![_photo](https://github.com/Christin-chris/chris/commit/77acd79847758bd44258522fbb3aad550805dffe)
