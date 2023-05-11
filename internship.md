@@ -32,3 +32,8 @@
 
 ![_photo](https://github.com/Christin-chris/chris/blob/main/Screenshot%20from%202023-05-09%2012-14-59.png)
 
+ ### DAY 3
+ 
+ >PROJECT-3
+  
+  ![_photo](https://www.tinkercad.com/things/iL02n05G8ow-and-gate/editel)
