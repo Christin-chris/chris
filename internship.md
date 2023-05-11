@@ -16,6 +16,10 @@
 
 ### DAY 2
 
+>kunamakkulam poliy students list
+>
+[kunamkkulam poly](https://github.com/tata-iiic/KunnamkulamPolyInternMay23/blob/main/index.md)
+
 >tinkercad
 
 1 open tinkecard software
