@@ -12,7 +12,7 @@
 
 >use simpols for respository file
 
-1[swabiribrahim](https://github.com/swabiribrahim)
+1 [swabiribrahim](https://github.com/swabiribrahim)
 
 ### DAY 2
 
