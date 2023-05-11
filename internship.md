@@ -18,7 +18,7 @@
 
 >kunamakkulam poliy students list
 >
-[kunamkkulam poly](https://github.com/tata-iiic/KunnamkulamPolyInternMay23/blob/main/index.md)
+[kunamkkulampoly](https://github.com/tata-iiic/KunnamkulamPolyInternMay23/blob/main/index.md)
 
 >tinkercad
 
