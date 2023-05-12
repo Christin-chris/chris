@@ -14,7 +14,7 @@
 
 1 [swabiribrahim](https://github.com/swabiribrahim)https://github.com/Christin-chris/chris/commit/77acd79847758bd44258522fbb3aad550805dffe
 
-### DAY 2
+### DAY 2https://github.com/Christin-chris/chris/blob/main/Screenshot%20from%202023-05-11%2016-05-07.png
 
 >kunamakkulam poliy students list
 >
@@ -174,7 +174,7 @@ void loop()
   
   digitalWrite(7, LOW);// Wait for 1000 millisecond(s)
   
-  delay(500);
+  delay(500);https://github.com/Christin-chris/chris/blob/main/Screenshot%20from%202023-05-11%2016-05-07.png
   
   digitalWrite(2, HIGH);
   
@@ -186,3 +186,4 @@ void loop()
   
 }
 ...
+![_photo](https://github.com/Christin-chris/chris/blob/main/Screenshot%20from%202023-05-11%2016-05-07.png)
