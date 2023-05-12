@@ -12,9 +12,9 @@
 
 >use simpols for respository file
 
-1 [swabiribrahim](https://github.com/swabiribrahim)https://github.com/Christin-chris/chris/commit/77acd79847758bd44258522fbb3aad550805dffe
+1 [swabiribrahim](https://github.com/swabiribrahim)
 
-### DAY 2https://github.com/Christin-chris/chris/blob/main/Screenshot%20from%202023-05-11%2016-05-07.png
+### DAY 2
 
 >kunamakkulam poliy students list
 >
