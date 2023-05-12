@@ -174,7 +174,7 @@ void loop()
   
   digitalWrite(7, LOW);// Wait for 1000 millisecond(s)
   
-  delay(500);https://github.com/Christin-chris/chris/blob/main/Screenshot%20from%202023-05-11%2016-05-07.png
+  delay(500);
   
   digitalWrite(2, HIGH);
   
