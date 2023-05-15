@@ -334,7 +334,7 @@ void nine(void) {
   digitalWrite(B, HIGH);
   digitalWrite(C, HIGH);
   digitalWrite(D, LOW);
-  digitalWrite(E, LOW);
+  digitalWrite(E, LOW);https://github.com/Christin-chris/chris/blob/main/Screenshot%20from%202023-05-15%2014-27-59.png
   digitalWrite(F, HIGH);
   digitalWrite(G, HIGH);
   digitalWrite(DP, LOW);
@@ -382,4 +382,21 @@ void loop(void)
 
 ![_photo](https://github.com/Christin-chris/chris/blob/main/Screenshot%20from%202023-05-15%2014-27-59.png)
 
+>PROGRAMM CODE
 
+```
+void setup() {
+  
+  Serial.begin(9600);
+}
+
+
+void loop() {
+  
+  int sensorValue = analogRead(A0);
+  
+  float voltage = sensorValue * (5.0 / 1023.0);
+  
+  Serial.println(voltage);
+}
+```
