@@ -376,4 +376,10 @@ void loop(void)
 ```
 ![_photo](https://github.com/Christin-chris/chris/blob/main/Screenshot%20from%202023-05-15%2009-49-50.png)
 
+##INTERFACING POTETIOMETR USING ARDINO
+
+>PROGRAMM -8
+
+![_photo]()
+
 
