@@ -194,10 +194,6 @@ void loop()
 
 ## DAY-4
 
->MACHINE LEARNING CLSS
-
-1.signal ditector work
-
 > introduction to AI & ML
 
  ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-12%2010-34-11.png)
@@ -215,6 +211,8 @@ void loop()
 
 **AI & ML** 
 
+>>MACHINE LEARNING
+>> 
 > STM 32 NUCLEO DEVELOPMENT BOARD
  
 ![IMAGE](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Untitled.jpeg)
