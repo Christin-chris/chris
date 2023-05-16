@@ -194,8 +194,6 @@ void loop()
 
 ## DAY-4
 
-> introduction to AI & ML
-
  ![image](https://github.com/kpr22102210/10-Days-internship/blob/main/img/Screenshot%20from%202023-05-12%2010-34-11.png)
  1. Introduced a programming platform named as (Blockly) 
  
