@@ -464,3 +464,40 @@ void loop()
   }
 }
 ```
+
+## rgb work
+
+> programm code 
+```
+// C++ code
+//
+void setup()
+{
+ Serial.begin(9600);
+}
+
+void loop()
+{
+  
+  int r=random(0,255);  
+  int g=random(0,255);
+  int b=random(0,255);
+  
+  
+  Serial.print(r);
+   Serial.print("-");
+   Serial.print(g); 
+  Serial.print("-");
+  Serial.println(b);
+  
+  
+  analogWrite(9, r);
+  analogWrite(10, g);
+  analogWrite(11,b);
+  
+  delay(3000);
+    
+  
+}
+```
+](https://github.com/Christin-chris/chris/assets/132876614/d9ea52b8-94ed-4e19-b813-2c806b4bb744)
