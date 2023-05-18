@@ -427,3 +427,8 @@ void loop() {
   Serial.println(voltage);
 }
 ```
+## DAY -7
+
+>SERVO MOTER
+
+![image](https://github.com/Christin-chris/chris/assets/132876614/d99e64c6-cf70-4231-b897-438c1f06e25a)
