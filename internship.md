@@ -509,8 +509,59 @@ void loop()
 ##day - 9
 
 >motion sensor withe ardino
+>
 ![_photo](https://github.com/Christin-chris/chris/blob/main/Screenshot%20from%202023-05-20%2010-49-25.png)
-()
+
+>programm code
+```
+#include <LiquidCrystal.h>
+
+const int buttonPin = 2;  // the number of the pushbutton pin
+const int ledPin = 13;    // the number of the LED pin
+int buttonState = 0;  // variable for reading the pushbutton status
+// initialize the library by associating any needed LCD interface pin
+// with the arduino pin number it is connected to
+const int rs = 12, en = 11, d4 = 5, d5 = 4, d6 = 3, d7 = 6;
+LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
+
+void setup() {
+  // set up the LCD's number of columns and rows:
+  lcd.begin(16, 2);
+  // Print a message to the LCD.
+ 
+    // initialize the pushbutton pin as an input:
+  // initialize the pushbutton pin as an input:
+  
+  pinMode(ledPin, OUTPUT);
+  // initialize the pushbutton pin as an input:
+  pinMode(buttonPin, INPUT);
+
+}
+
+void loop() {
+  
+   buttonState = digitalRead(buttonPin);
+  
+  if (buttonState == HIGH) {
+     lcd.print("there is a human!");
+    // turn LED on:
+    digitalWrite(ledPin, HIGH);
+  } else {
+    // turn LED off:
+    digitalWrite(ledPin, LOW);
+  }
+  
+  
+  // set the cursor to column 0, line 1
+  // (note: line 1 is the second row, since counting begins with 0):
+  lcd.setCursor(0, 1);
+  // print the number of seconds since reset:
+  lcd.print(millis() / 1000);
+  
+  
+}
+```
+
 
 ## day - 10
 
