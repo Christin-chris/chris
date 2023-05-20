@@ -506,6 +506,12 @@ void loop()
 ```
 ![_photo](https://github.com/Christin-chris/chris/blob/main/aswin.png)
 
+##day - 9
+
+>motion sensor withe ardino
+![_photo]()
+()
+
 ## day - 10
 
 >automatic street light
