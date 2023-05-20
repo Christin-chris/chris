@@ -505,3 +505,9 @@ void loop()
 }
 ```
 ![_photo](https://github.com/Christin-chris/chris/blob/main/aswin.png)
+
+## day - 10
+
+>automatic street light
+
+![_photo](https://github.com/Christin-chris/chris/blob/main/Screenshot%20from%202023-05-20%2010-38-50.png)
