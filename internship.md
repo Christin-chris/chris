@@ -431,7 +431,7 @@ void loop() {
 
 >SERVO MOTER
 
-![image](https://github.com/Christin-chris/chris/assets/132876614/d99e64c6-cf70-4231-b897-438c1f06e25a)
+[![image]](https://github.com/Christin-chris/chris/blob/main/Screenshot%20from%202023-05-20%2010-38-50.png)
 
 > PROGRAMM CODE
 ```
@@ -496,7 +496,11 @@ void loop()
   analogWrite(11,b);
   
   delay(3000);
-    
+  ## day -10
+  
+  >automatic street light
+  
+  (https://github.com/Christin-chris/chris/blob/main/Screenshot%20from%202023-05-20%2010-38-50.png)
   
 }
 ```
